@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlockchainSpot
-&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BlockchainSpot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 **BlockchainSpot/BlockchainSpot** is a ✨ _special_ ✨ 
