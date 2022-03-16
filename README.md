@@ -1,9 +1,9 @@
-### Hi there 👋
+### It's time to the new version of working together Web3.0 ### 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BlockchainSpot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-**BlockchainSpot/BlockchainSpot** is a ✨ _special_ ✨ 
+**BlockchainSpot** is a ✨ _special_ ✨ 
 
 
 - 🔭 I’m currently working on Blockchain
