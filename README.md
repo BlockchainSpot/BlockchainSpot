@@ -12,9 +12,7 @@
 - 🤔 I’m looking for help with Blockchain & smart contract
 - 💬 Ask me about i am karl
 
-#### BuidSpace : 
-
-  https://zip.sc/notlC
 
 
+[Auto Formation](https://github.com/BlockchainSpot)
 
